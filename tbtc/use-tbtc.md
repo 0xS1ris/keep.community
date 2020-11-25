@@ -10,41 +10,41 @@ Use the tBTC dApp to exchange your BTC for TBTC.
 
 ## Etherum and Bitcoin network
 
-### tBTC dApp 
+### tBTC dApp
 
 This is the main app to mint TBTC with your Bitcoin and redeem your Bitcoin with your TBTC.
 
 Mainnet page:
 
-{% embed url="https://dapp.tbtc.network/" %}
+{% embed url="https://dapp.tbtc.network/" caption="" %}
 
 Testnet page:
 
-{% embed url="https://dapp.test.tbtc.network/" %}
+{% embed url="https://dapp.test.tbtc.network/" caption="" %}
 
 ### How to Use the tBTC dApp
 
 Below a tutorial to exchange your BTC for TBTC.
 
-{% embed url="https://medium.com/@hardcorecoin/mainnet-tbtc-how-to-mint-ff85db434bc4" %}
+{% embed url="https://medium.com/@hardcorecoin/mainnet-tbtc-how-to-mint-ff85db434bc4" caption="" %}
 
 ### tBTC on Ropsten
 
-{% embed url="https://tbtc.network/news/2020-02-14-ropsten/" %}
+{% embed url="https://tbtc.network/news/2020-02-14-ropsten/" caption="" %}
 
 ### tBTC + Tornado Cash
 
 This dApp is quite neat.
 
-{% embed url="https://tbtc-tornadocash.web.app/" %}
+{% embed url="https://tbtc-tornadocash.web.app/" caption="" %}
 
 ### **tBTC Subgraph - The Graph**
 
-{% embed url="https://thegraph.com/explorer/subgraph/suntzu93/tbtc" %}
+{% embed url="https://thegraph.com/explorer/subgraph/suntzu93/tbtc" caption="" %}
 
 ### tBTC Liquidator
 
-{% embed url="https://github.com/elishadrion/tBTC-liquidator" %}
+{% embed url="https://github.com/elishadrion/tBTC-liquidator" caption="" %}
 
 ### Keep Network Indexer to get the random tdt\_id
 
@@ -53,15 +53,15 @@ To return various data about the Keep network, such as the needed TDT\_ID in the
 * an improved tBTC dApp
 * a Telegram bot.
 
-{% embed url="https://medium.com/@aeantonov/building-keep-network-indexer-tbtc-dapp-improvement-ebdfdbd5994f" %}
+{% embed url="https://medium.com/@aeantonov/building-keep-network-indexer-tbtc-dapp-improvement-ebdfdbd5994f" caption="" %}
 
-###  tBTC Contract Watcher
+### tBTC Contract Watcher
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
 This app provides the current state of 'ongoing' contracts minted on tBTC Network, it means the following states: Active, Awaiting Withdrawal, Awaiting Withdrawal Proof and Courtesy Call.
 
-{% embed url="https://tbtc-pfk.web.app/" %}
+{% embed url="https://tbtc-pfk.web.app/" caption="" %}
 
 ### Deposit / Redeem explorer
 
@@ -71,25 +71,25 @@ Explorers for deposits \(tracking Bitcoin, Ethereum state and proofs\) and redee
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-{% embed url="https://keepscan.com/" %}
+{% embed url="https://keepscan.com/" caption="" %}
 
 #### keep-deposit.com
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-{% embed url="https://keep-deposit.com/" %}
+{% embed url="https://keep-deposit.com/" caption="" %}
 
 #### allthekeeps.com
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-{% embed url="https://allthekeeps.com/deposits" %}
+{% embed url="https://allthekeeps.com/deposits" caption="" %}
 
 #### tBTCexplorer.com
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-{% embed url="http://tbtcexplorer.com/" %}
+{% embed url="http://tbtcexplorer.com/" caption="" %}
 
 ## Lightning Network
 
@@ -99,7 +99,7 @@ Explorers for deposits \(tracking Bitcoin, Ethereum state and proofs\) and redee
 This project won the play for keep award!
 {% endhint %}
 
-{% embed url="https://github.com/corollari/ln2tBTC/blob/master/README.md" %}
+{% embed url="https://github.com/corollari/ln2tBTC/blob/master/README.md" caption="" %}
 
 ## Aztec
 
@@ -111,9 +111,9 @@ This project won the play for keep award!
 
 Aztec is a privacy network on Ethereum. tBTC on Aztec:
 
-{% embed url="https://aztec-tbtc.web.app/" %}
+{% embed url="https://aztec-tbtc.web.app/" caption="" %}
 
 ## **Matt Luongo \(KEEP\) on the Maker Collaterall Onboarding Call**
 
-{% embed url="https://youtu.be/cPDwGHxuNtY?t=1692" %}
+{% embed url="https://youtu.be/cPDwGHxuNtY?t=1692" caption="" %}
 

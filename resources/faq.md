@@ -28,7 +28,7 @@ KEEP has not been introduced through an ICO. Please see [Distribution & Supply](
 
 ### At what price the first investors bought KEEP for?
 
- According to [Messari](https://messari.io/asset/keep-network/profile), Industrial Staker Sale \(Series A Tranche\) in 2017: $0.0720 per KEEP and Staker Sale \(Series B Tranche\) in 2019: $0.120 per KEEP.
+According to [Messari](https://messari.io/asset/keep-network/profile), Industrial Staker Sale \(Series A Tranche\) in 2017: $0.0720 per KEEP and Staker Sale \(Series B Tranche\) in 2019: $0.120 per KEEP.
 
 ## tBTC
 
@@ -64,12 +64,12 @@ You have to stake your ETH for the length of at least one tBTC deposit. That cou
 
 ### What is the ratio of the locked ETH and $KEEP a user will get?
 
-Depends on how much ETH has been staked across the system. If you're the only one, you get most of the KEEP per reward period.   
-Source: Matt Luongo \(Keep CEO\) on Discord. 
+Depends on how much ETH has been staked across the system. If you're the only one, you get most of the KEEP per reward period.  
+Source: Matt Luongo \(Keep CEO\) on Discord.
 
 ### How often and where would I receive my part of the stakedrop?
 
-Monthly in the beneficiary address. 
+Monthly in the beneficiary address.
 
 ## Nodes
 

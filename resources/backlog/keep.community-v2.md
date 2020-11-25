@@ -1,6 +1,6 @@
 # keep.community v2
 
-### Considerations
+## Considerations
 
 Things to be considered before choosing a "definite" solution:
 
@@ -8,7 +8,7 @@ Things to be considered before choosing a "definite" solution:
 * Content velocity \(how often does it need to be updated\)
 * Contributors \(how many people submit changes\)
 
-### Brief Platform Comparison
+## Brief Platform Comparison
 
 |  | Gitbook | Notion | Github |
 | :--- | :---: | :---: | :---: |

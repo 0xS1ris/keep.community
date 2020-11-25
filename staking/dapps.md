@@ -14,7 +14,5 @@ Dashboard for both Android and iOS. Main features:
 * Contract approval status
 * View Random Beacon rewards
 
-{% embed url="https://keepdashboard.app/" %}
-
-
+{% embed url="https://keepdashboard.app/" caption="" %}
 

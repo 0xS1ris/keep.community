@@ -14,7 +14,7 @@ This is the main dashboard for the KEEP token. There you can:
 * delegate/undelegate your tokens
 * see your rewards
 
-{% embed url="https://dashboard.keep.network/" %}
+{% embed url="https://dashboard.keep.network/" caption="" %}
 
 ## KeepTools
 
@@ -31,11 +31,11 @@ Great resource to:
 * request from faucets for testing \(ETH, BTC, KEEP\)
 * create Keystore tools
 
-{% embed url="https://keeptools.org/" %}
+{% embed url="https://keeptools.org/" caption="" %}
 
 ## Keep stats
 
-{% embed url="https://keepstats.org/" %}
+{% embed url="https://keepstats.org/" caption="" %}
 
 ## Keep Explorers
 
@@ -50,11 +50,11 @@ Two Keep explorers are available:
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-{% embed url="https://keepexplorer.com/" %}
+{% embed url="https://keepexplorer.com/" caption="" %}
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-{% embed url="https://keep-explorer.herokuapp.com/keep/token-holders" %}
+{% embed url="https://keep-explorer.herokuapp.com/keep/token-holders" caption="" %}
 
 ## **Keep Subgraph**
 
@@ -62,7 +62,7 @@ Two Keep explorers are available:
 
 This subgraph is an open API to query the keep smart contract.
 
-{% embed url="https://thegraph.com/explorer/subgraph/tibike6/keep" %}
+{% embed url="https://thegraph.com/explorer/subgraph/tibike6/keep" caption="" %}
 
 ## Keep on Dune Analytics
 
@@ -70,7 +70,7 @@ This subgraph is an open API to query the keep smart contract.
 
 Create your new dashboard by searching keep\_v110 schema.
 
-{% embed url="https://explore.duneanalytics.com/queries/new" %}
+{% embed url="https://explore.duneanalytics.com/queries/new" caption="" %}
 
 ## Keep Swap
 
@@ -82,13 +82,11 @@ Nice tool to swap tokens with Keep. Advantages:
 * automatic insurance through Nexus mutual
 * integration of 5k+ tokens.
 
-{% embed url="https://keepswap.app/" %}
+{% embed url="https://keepswap.app/" caption="" %}
 
 ## Keep setup
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-{% embed url="https://github.com/knarz/keep-setup" %}
-
-
+{% embed url="https://github.com/knarz/keep-setup" caption="" %}
 

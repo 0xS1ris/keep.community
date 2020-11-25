@@ -14,10 +14,6 @@ The total supply of KEEP is of 1,000,000,000 tokens. They are released progressi
 
 The KEEP token distribution has been shared between the early team and advisors, the company, private purchasers, and the public.
 
-
-
-
-
 ![Token supply distribution \(https://blog.keep.network/transparency-at-keep-c7f4a0be3603\)](../.gitbook/assets/image%20%288%29.png)
 
 ## Supply
@@ -33,11 +29,11 @@ In the "Consensus & emission" section of the Messari report, you will find info 
 * the Team, associates, and Keep SEZC allocations
 * the public distribution
 
-{% embed url="https://messari.io/asset/keep-network/profile/\#Consensus" %}
+{% embed url="https://messari.io/asset/keep-network/profile/\#Consensus" caption="" %}
 
 ### Notes on the Circulating Supply
 
 In this article, Matt Luongo clarifies some points around the circulating supply and how its definition is not a universally defined metric.
 
-{% embed url="https://telegra.ph/KEEP-circulating-supply-08-11" %}
+{% embed url="https://telegra.ph/KEEP-circulating-supply-08-11" caption="" %}
 

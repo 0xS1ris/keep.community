@@ -16,13 +16,13 @@ You can stake only ETH \(in the first months\) or both ETH and KEEP to run an EC
 
 The original post on git from the KEEP team to explain how to run an ECDSA node.
 
-{% embed url="https://github.com/keep-network/keep-ecdsa/blob/master/docs/run-keep-ecdsa.adoc" %}
+{% embed url="https://github.com/keep-network/keep-ecdsa/blob/master/docs/run-keep-ecdsa.adoc" caption="" %}
 
 ## Get KEEP by running an ECDSA Node
 
 This article explains how to get KEEP by staking KEEP + ETH or ETH only in the first months of the project.
 
-{% embed url="https://blog.keep.network/how-to-get-keep-stake-eth-42252ee11863" %}
+{% embed url="https://blog.keep.network/how-to-get-keep-stake-eth-42252ee11863" caption="" %}
 
 ## Deployment
 
@@ -41,41 +41,37 @@ In this step-by-step tutorial you can learn how to launch both nodes \(BEACON an
 * create config files
 * deploy on Google using docker
 
-{% embed url="https://youtu.be/WhqkOwmQIoo" %}
+{% embed url="https://youtu.be/WhqkOwmQIoo" caption="" %}
 
 ### Cloud deployment - Hetzner
 
 Installation guide with translations in Indonesian and Russian!
 
-{% embed url="https://icohigh.gitbook.io/keep-nodes/english/installation-guide" %}
+{% embed url="https://icohigh.gitbook.io/keep-nodes/english/installation-guide" caption="" %}
 
 ### Local deployment
 
-{% embed url="https://docs.google.com/document/d/1hsI8AtUiGAfcHxik-3akSRjysC0Zw0CVmHxmbNtZyHI/edit\#heading=h.xyf76agi0xzl" %}
-
-
+{% embed url="https://docs.google.com/document/d/1hsI8AtUiGAfcHxik-3akSRjysC0Zw0CVmHxmbNtZyHI/edit\#heading=h.xyf76agi0xzl" caption="" %}
 
 ### Deployment with Kubernetes and Monitor with Prometheus & Grafana
 
-{% embed url="https://medium.com/@alex.j.crowe/deploy-a-keep-node-to-kubernetes-and-monitor-with-prometheus-grafana-4ee5c7d9e9a4" %}
+{% embed url="https://medium.com/@alex.j.crowe/deploy-a-keep-node-to-kubernetes-and-monitor-with-prometheus-grafana-4ee5c7d9e9a4" caption="" %}
 
 ### Terraform
 
 Terraform to create Keep-ECDSA mainnet node on AWS.
 
-{% embed url="https://github.com/afmsavage/keep-ecdsa-tf/tree/testnet" %}
+{% embed url="https://github.com/afmsavage/keep-ecdsa-tf/tree/testnet" caption="" %}
 
 ### Helm Charts
 
 "These charts provide a simple way to deploy KEEP Network clients into Kubernetes and make for easier and simplier upgrade processes". Look at the keep-ecdsa for tBTC or other applications.
 
-{% embed url="https://github.com/ajcrowe/keep-helm-chart" %}
+{% embed url="https://github.com/ajcrowe/keep-helm-chart" caption="" %}
 
 ## Address List for Ropsten
 
 Find the latest address list in this list.
 
-{% embed url="https://keeptools.org/address-list" %}
-
-
+{% embed url="https://keeptools.org/address-list" caption="" %}
 

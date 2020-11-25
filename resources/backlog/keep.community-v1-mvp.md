@@ -1,14 +1,14 @@
 # keep.community v1 \(MVP\)
 
-We have 
+We have
 
-### The State of the MVP
+## The State of the MVP
 
 * Structure
 * Missing Links
 * Other useful links
 
-### Moving Forward \(keeping it updated\)
+## Moving Forward \(keeping it updated\)
 
 We acknowledge that this space is as valuable as the information in it. For it, we need to update it accordingly.
 

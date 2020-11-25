@@ -8,7 +8,7 @@ description: In the beni... in the beginning...
 
 _A short story involving love and real-estate._
 
-{% embed url="https://www.forbes.com/sites/justinoconnell/2020/04/03/coinbase-co-founder-invests-in-project-to-bridge-bitcoin-and-ethereum/\#1cdaba347df4" %}
+{% embed url="https://www.forbes.com/sites/justinoconnell/2020/04/03/coinbase-co-founder-invests-in-project-to-bridge-bitcoin-and-ethereum/\#1cdaba347df4" caption="" %}
 
 The inspiration for tBTC dates back to when Matt Luongo, the founder of [Keep Network](https://keep.network/) parent [Thesis.co](http://Thesis.co), and his wife found a house they wanted to buy.
 
@@ -34,7 +34,5 @@ Since then, the space has matured, Luongo said, highlighting the novel rate lend
 
 Another narrative on the birth of tBTC could be found below.
 
-{% embed url="https://www.bloomberg.com/news/articles/2020-04-02/bitcoin-s-ethereum-rivalry-could-be-assuaged-with-tbtc-bridge" %}
-
-
+{% embed url="https://www.bloomberg.com/news/articles/2020-04-02/bitcoin-s-ethereum-rivalry-could-be-assuaged-with-tbtc-bridge" caption="" %}
 

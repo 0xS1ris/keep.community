@@ -22,15 +22,15 @@ Learn about:
 * how much rewards to earn
 * the risks associated with staking
 
-{% embed url="https://medium.com/@chdru/keep-network-stakedrop-3e63355a18ec" %}
+{% embed url="https://medium.com/@chdru/keep-network-stakedrop-3e63355a18ec" caption="" %}
 
 ## Rewards mechanics
 
-{% embed url="https://medium.com/@ben\_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97" %}
+{% embed url="https://medium.com/@ben\_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97" caption="" %}
 
 ## Stakedrop details
 
-{% embed url="https://medium.com/@chdru/keep-network-stakedrop-diving-deeper-84e69c36c191" %}
+{% embed url="https://medium.com/@chdru/keep-network-stakedrop-diving-deeper-84e69c36c191" caption="" %}
 
 ## Reward model
 
@@ -40,7 +40,7 @@ Have you wondered how much KEEP you could earn by staking your KEEP and/or ETH? 
 * how many KEEP will be distributed each month in the liquidity reward distribution
 * how much $ you can make by playing with ETH and KEEP prices in the spreadsheet.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1kVhAsv1ZHEGSJNqMdVfiH1-biOJboCUZuhl0J-vXklc/edit\#gid=0" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1kVhAsv1ZHEGSJNqMdVfiH1-biOJboCUZuhl0J-vXklc/edit\#gid=0" caption="" %}
 
 {% hint style="warning" %}
 If you don't have an oversized screen to adjust the above sheet, [here's the link](https://docs.google.com/spreadsheets/d/1KjouNwDBdx2Ox9UaztPNEC56fc5Dk-YsGSNcYVxL19s/edit#gid=0) to open it in a new tab.
@@ -50,7 +50,7 @@ If you don't have an oversized screen to adjust the above sheet, [here's the lin
 
 This is the official article announcing the stakedrop on the team Medium.
 
-{% embed url="https://blog.keep.network/keeps-stakedrop-kicks-off-with-live-crowdcast-deb3ef0d174b" %}
+{% embed url="https://blog.keep.network/keeps-stakedrop-kicks-off-with-live-crowdcast-deb3ef0d174b" caption="" %}
 
 ## Launch event
 
@@ -59,6 +59,4 @@ The Keep stakedrop kicked-off with a live Crowdcast on June 8 2020. This present
 {% embed url="https://www.crowdcast.io/e/keep-stakedrop---live" caption="Video of the launch event" %}
 
 {% embed url="https://blog.keep.network/keeps-stakedrop-kicks-off-with-live-crowdcast-deb3ef0d174b" caption="Launch event announcement" %}
-
-## 
 

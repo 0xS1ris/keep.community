@@ -11,7 +11,7 @@ description: This is our attempt to organize information about the Keep project.
 
 ## **Matt Luongo \(KEEP\) on the Maker Collaterall Onboarding Call**
 
-{% embed url="https://youtu.be/cPDwGHxuNtY?t=1692" %}
+{% embed url="https://youtu.be/cPDwGHxuNtY?t=1692" caption="" %}
 
 ## **Main Links 🏠**
 

@@ -8,7 +8,7 @@ Instead of running your own nodes, you could also delegate your KEEP to speciali
 
 Below the announcement from Bison Trails to support KEEP.
 
-{% embed url="https://bisontrails.co/keep-stake-drop/" %}
+{% embed url="https://bisontrails.co/keep-stake-drop/" caption="" %}
 
 ## Staked
 
@@ -18,13 +18,11 @@ The [Keep Network Staking Guide for Staked](https://docs.google.com/viewerng/vie
 
 KEEP staking and delegation guide with Figment network.
 
-{% embed url="https://figment.network/resources/keep-network-guide-to-staking-keep/" %}
+{% embed url="https://figment.network/resources/keep-network-guide-to-staking-keep/" caption="" %}
 
 ## Blockdaemon
 
 Find below all the resources to stake KEEP with Blockdaemon.
 
-{% embed url="https://support.blockdaemon.com/hc/en-us/articles/360048542591-What-is-Keep-" %}
-
-
+{% embed url="https://support.blockdaemon.com/hc/en-us/articles/360048542591-What-is-Keep-" caption="" %}
 

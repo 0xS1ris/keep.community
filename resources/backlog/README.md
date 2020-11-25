@@ -39,5 +39,3 @@ We would like to keep improving this website. Please let us know if there's some
 
 {% page-ref page="keep.community-v2.md" %}
 
-
-
