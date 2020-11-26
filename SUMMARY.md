@@ -25,6 +25,7 @@
 * [Features](tbtc/features.md)
 * [BTC on Ethereum](tbtc/tokenised-btc.md)
 * [dApps](tbtc/use-tbtc.md)
+* [Exchanges](tbtc/exchanges.md)
 * [Yield farming](tbtc/yield-farming.md)
 * [For the developers](tbtc/for-the-developers.md)
 * [tBTC Genesis](tbtc/tbtc-genesis-1.md)
