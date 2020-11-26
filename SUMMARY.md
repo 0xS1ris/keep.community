@@ -16,6 +16,7 @@
 
 * [Information](keep-token/information.md)
 * [Distribution & Supply](keep-token/token-liquidity.md)
+* [Exchanges](keep-token/exchanges.md)
 * [Tools](keep-token/tools.md)
 
 ## 🤝 tBTC
