@@ -49,6 +49,7 @@
 
 * [FAQ](resources/faq.md)
 * [Glossary](resources/glossary.md)
+* [Contributing](resources/contribute.md)
 * [Our Backlog](resources/backlog/README.md)
   * [keep.community v1 \(MVP\)](resources/backlog/keep.community-v1-mvp.md)
   * [keep.community v2](resources/backlog/keep.community-v2.md)
