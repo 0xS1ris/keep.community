@@ -8,6 +8,8 @@ description: Where to buy/sell TBTC
 Click on the trading pairs to access directly the exchanges
 {% endhint %}
 
+These links are for informational purposes only. You should never click links on non-official websites. Including this one. Trust no one.
+
 <table>
   <thead>
     <tr>
