@@ -21,7 +21,7 @@ These links are for informational purposes only. You should never click links on
   <tbody>
     <tr>
       <td style="text-align:left">Uniswap (v2)</td>
-      <td style="text-align:left"><a href="https://uniswap.exchange/swap/0x8daebade922df735c38c80c7ebd708af50815faa">TBTC/ETH </a>
+      <td style="text-align:left"><a href="https://uniswap.exchange/swap/0x8daebade922df735c38c80c7ebd708af50815faa">TBTC/ETH</a>
       </td>
       <td style="text-align:left">&#x2705;</td>
     </tr>
@@ -39,7 +39,7 @@ These links are for informational purposes only. You should never click links on
     </tr>
     <tr>
       <td style="text-align:left">Sushiswap</td>
-      <td style="text-align:left"><a href="https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x8daebade922df735c38c80c7ebd708af50815faa">TBTC/ETH </a>
+      <td style="text-align:left"><a href="https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x8daebade922df735c38c80c7ebd708af50815faa">TBTC/ETH</a>
       </td>
       <td style="text-align:left">&#x2705;</td>
     </tr>

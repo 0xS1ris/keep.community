@@ -8,7 +8,7 @@ description: Where to buy/sell KEEP
 Click on the trading pairs to access directly the exchanges
 {% endhint %}
 
-Also, if you would like extra-security, you shouldn't trust this link (or anyone you find online on untrusted websites). Go directly to the source. Trust no one.
+Also, if you would like extra-security, you shouldn't trust this link \(or anyone you find online on untrusted websites\). Go directly to the source. Trust no one.
 
 <table>
   <thead>
@@ -69,12 +69,4 @@ Also, if you would like extra-security, you shouldn't trust this link (or anyone
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
 
