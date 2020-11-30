@@ -35,6 +35,10 @@ Great resource to:
 
 ## Keep stats
 
+Main stats about the keep network.
+
+![](../.gitbook/assets/image%20%2821%29.png)
+
 {% embed url="https://keepstats.org/" caption="" %}
 
 ## Keep Explorers
