@@ -1,5 +1,13 @@
 # Running a node
 
+## Active participation
+
+Nice article from Bisontrails which explains how collateralisation works and the redeem process.
+
+{% embed url="https://bisontrails.co/keep-active-participation/" %}
+
+
+
 ## Risks associated
 
 ### Risks involved by staking ETH
