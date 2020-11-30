@@ -6,6 +6,16 @@ Nice article from Bisontrails which explains how collateralisation works and the
 
 {% embed url="https://bisontrails.co/keep-active-participation/" %}
 
+## Claim rewards
+
+### Withdraw rewards with Etherscan
+
+{% embed url="https://evandrosaturnino.medium.com/how-to-withdraw-your-keep-network-stakedrop-using-etherscan-c92df16fd737" %}
+
+### Script for keep claim
+
+{% embed url="https://github.com/benlongstaff/keep-claim" %}
+
 
 
 ## Risks associated
