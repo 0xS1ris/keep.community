@@ -10,6 +10,10 @@ Below the announcement from Bison Trails to support KEEP.
 
 {% embed url="https://bisontrails.co/keep-stake-drop/" caption="" %}
 
+## LowFeeValidation
+
+[https://lowfeevalidation.com/](https://lowfeevalidation.com/)
+
 ## Staked
 
 The [Keep Network Staking Guide for Staked](https://docs.google.com/viewerng/viewer?url=https://staking.staked.us/hubfs/Staked%2520KEEP%2520Staking%2520Guide%2520-%2520May%25202020.pdf).
