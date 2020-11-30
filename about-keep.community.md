@@ -24,9 +24,7 @@ Feel that there's something missing, or some correction you would like to add, o
 **Discord:** `badabam`  
 **email**: badabam \[at\] keep \[dot\] community
 
-## **🔗 What's next?!**
-
-Well, glad you ask. We would **love** to have a **node in production**. We feel that that's the best way of contributing to and believing in the project. However, we do not have all the required funds. So we would be using any grant provided to stake in the node \(as well as make tutorials, and help more people to get onboard\). That's why we're submitting this to **Play for Keeps**. Fingers crossed.
+## \*\*\*\*
 
 ```javascript
 Made with <3 in Berlin.
