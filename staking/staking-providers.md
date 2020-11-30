@@ -12,7 +12,7 @@ Below the announcement from Bison Trails to support KEEP.
 
 ## LowFeeValidation
 
-[https://lowfeevalidation.com/](https://lowfeevalidation.com/)
+{% embed url="https://lowfeevalidation.com/" %}
 
 ## Staked
 
